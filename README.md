@@ -1,2 +1,7 @@
-# bootstrap
-testing...
+# Bootstrap
+
+# 🛠️ Tehcnology
+- **HTML**
+- **CSS**
+- **JS**
+- **BS**
